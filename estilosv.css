@@ -1,0 +1,31 @@
+ /* estilo de fondo */
+body {
+  background: #d3d3d3;
+  font-size: 100%;
+  margin: 0;
+  font-family: "Tahoma";
+  color: #444444;
+
+
+}
+
+/* Estilo para la lista */
+.aside-nav{
+
+  background: #e8e8e8;
+  padding: 0;
+  width: 25%;
+}
+
+/* Estilo para los elementos de la lista */
+.aside-nav li a {
+  display: block;
+  padding: 1.25em;
+  border-bottom: 1px solid #d2d2d2;
+  
+}
+
+/* Estilo al posicionar el puntero encima del enlace */
+.aside-nav a:hover{
+  color: #ffffff;
+}
